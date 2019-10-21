@@ -1,4 +1,4 @@
-#webpack library with typescript and sass with a Demo Application
+# webpack library with typescript and sass with a Demo Application
 
 ## features
 - works with typescript and sass
@@ -6,7 +6,7 @@
 - extract css files and automatically add js,css files to demo HTML
 - generic starter that's easy to use, extend and modify
 
-##important commands
+## important commands
 ### running demo `npm start`
 runs webpack-dev-server with 9000 port as default
 ### build Library bundle `npm run build`
